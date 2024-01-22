@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    margin: 40px auto;
+}
+
+.head{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 0 0 50px 0;
+}
+
+#toggle{
+    padding: 0 20px;
+    background-color:deeppink ;
+    border: none;
+    border-radius:5px ;
+    color: white;
+    cursor: pointer;
+}
+
+#corps{
+    margin: 0 100px;
+}
+
+.part{
+    width: 90%;
+}
+
+.tittle{
+    color: deeppink;
+}
+
+
+.changeColor{
+    background-color: black;
+}
+
+.changeWhite{
+    color: slategray;
+}
+
+
